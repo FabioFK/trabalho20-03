@@ -27,3 +27,6 @@ class ExA extends DesenhoAbstrato {
 	}
 
 }
+
+
+// segunda tentativa a primeira falhou
